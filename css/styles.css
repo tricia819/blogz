@@ -1,5 +1,12 @@
 body {
-    font-family: sans-serif;
+    background: #5a53ad url(http://imagecolony.com/wp-content/uploads/2016/08/Background-Image-9DE.jpg) no-repeat center center fixed;
+    -webkit-background-size: 100% auto;
+    -moz-background-size: 100% auto;
+    -ms-background-size: 100% auto;
+    -o-background-size: 100% auto;
+    background-size: 100% auto;
+    color: #009996;
+    font-family: Monotype Corsiva;
     width: 800px;
     margin: 0 auto;
     padding: 10px;
